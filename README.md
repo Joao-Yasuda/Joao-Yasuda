@@ -6,7 +6,7 @@
 
 ## About me:
 
-I'm a Front-end Developer :smile:
+I'm a Mobile Developer :smile:
 
 I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
 
