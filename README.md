@@ -10,7 +10,7 @@ I'm a Mobile Developer :smile:
 
 I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
 
-## My specialties:
+## My specialities:
 
 ### Languages: <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
