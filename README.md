@@ -26,7 +26,7 @@ Hoje, como desenvolvedor web, foco em transformar problemas reais em produtos si
 
 <h3 align="left">Me siga em outras redes:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/joao-yasuda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joao-yasuda" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joao-yasuda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joao-yasuda" padding-right="10px" height="30" width="40" /></a>
 <a href="https://instagram.com/joao_yasuda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joao_yasuda" height="30" width="40" /></a>
 </p>
 
